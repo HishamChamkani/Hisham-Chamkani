@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HishamKhan
+- 👋 Hi, I’m @Hisham Khan
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning HTML,CSS & JavaScript
 - 💞️ I’m looking to collaborate on Website & WebApps
