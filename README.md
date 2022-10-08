@@ -1,7 +1,7 @@
 - 👋 Hi, This is @Hisham Khan
 - 👀 I’m a Front-End Devloper
 - 🌱 I’m Learning Full Stack (MERN) Development  
-- 💞️ I’m looking to collaborate on Website & WebApps
+- 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me hishamkhan435@gmail.com
 
 <!---
